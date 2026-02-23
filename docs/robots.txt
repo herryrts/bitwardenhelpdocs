@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitwardenhelpdocs.readthedocs.io/en/latest/
